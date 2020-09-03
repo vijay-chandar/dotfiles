@@ -1,0 +1,1 @@
+/home/local/ZOHOCORP/vijay-5078/.vimrc
